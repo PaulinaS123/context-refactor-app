@@ -168,7 +168,7 @@ git clone https://github.com/PaulinaS123/context-refactor-app.git
 ## 2. Navigate Into the Project Folder
 
 ```bash
-cd react-context-refactor-app
+cd context-refactor-app
 ```
 
 ---
