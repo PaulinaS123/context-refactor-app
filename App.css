@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+.app {
+  padding: 40px;
+  text-align: center;
+}
+
+.dashboard,
+.sidebar,
+.profile-card {
+  background-color: white;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 12px;
+  max-width: 600px;
+  color: black;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-card {
+  border-left: 6px solid #646cff;
+}
+
+.dashboard h2,
+.sidebar h3,
+.profile-card h2 {
+  color: #222;
+}
